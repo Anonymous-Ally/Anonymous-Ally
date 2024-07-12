@@ -2,5 +2,5 @@
 - 👀 I’m interested in simple programming projects.
 - 🌱 I’m currently learning Python and other languages such as Javascript and Lua after I learn Python well enough.
 - 💞️ I’m looking to collaborate on any fun projects you want!
-- 📫 How to reach me: email me and I will provide my discord.
+- 📫 How to reach me:  Discord: lukaluk_.
 - 😄 Pronouns: He/Him.
